@@ -31,7 +31,7 @@ defmodule Phx.Gen.Auth.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:phoenix, "~> 1.5.2"},
+      {:phoenix, "~> 1.6.2"},
       {:phx_new, "~> 1.5.6", only: [:dev, :test]},
       # Docs dependencies
       {:ex_doc, "~> 0.20", only: :docs}
